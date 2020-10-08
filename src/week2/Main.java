@@ -32,7 +32,7 @@ public class Main {
         while (rem != 0);
 
         // print results to screen
-        System.out.println(max);
+        System.out.println("GCD = " + max);
 
     }
 }
